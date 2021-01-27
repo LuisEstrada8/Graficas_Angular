@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "graficos"
+  "defaultProject": "graficos",
+  "cli": {
+    "analytics": "f06eaeb2-781a-46b6-bea8-f1a9186e133a"
+  }
 }
